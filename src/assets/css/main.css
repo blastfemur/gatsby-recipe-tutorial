@@ -564,7 +564,9 @@ form > *:last-child {
   display: grid;
   gap: 2rem 1rem;
   margin-left: 1rem;
-  margin-righ: 1rem;
+  margin-right: 1rem;
+  margin: 0 auto;
+  max-width: 58vw;
 }
 
 .recipes-list {
