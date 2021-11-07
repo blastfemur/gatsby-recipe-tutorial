@@ -82,8 +82,7 @@ html {
 }
 
 body {
-  /* background: var(--backgroundColor); */
-  background: red;
+  background: var(--backgroundColor);
   color: var(--textColor);
   font-family: var(--bodyFont);
   font-weight: 400;
@@ -564,8 +563,8 @@ form > *:last-child {
 .recipes-container {
   display: grid;
   gap: 2rem 1rem;
-  margin-right: 1rem;
   margin-left: 1rem;
+  margin-righ: 1rem;
 }
 
 .recipes-list {
